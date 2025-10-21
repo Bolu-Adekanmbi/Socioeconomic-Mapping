@@ -9,6 +9,6 @@ This code (and any substantial portion thereof) is provided under the Apache 2.0
 If you would like to use this work (or a substantial portion thereof) in a **commercial product** (i.e., a product or service that is charged for or intended for profit), please contact the author to discuss a separate commercial licence.  
 The author retains all rights not expressly granted by the Apache 2.0 license.  
 Please give appropriate credit to the author in any redistribution or derivative work, for example:  
-> “Based in part on work by <Your Name> (see <Repository URL>).”
+> “Based in part on work by Mobolurin Adekanmbi (see [Repository](https://github.com/Bolu-Adekanmbi/Socioeconomic-Mapping)).”
 
 Thank you for your interest and for reaching out!
