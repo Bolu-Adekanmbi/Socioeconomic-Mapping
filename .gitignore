@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Folders I want to ignore
+throwaway-data/
+GIS-Exploration/
+data/
